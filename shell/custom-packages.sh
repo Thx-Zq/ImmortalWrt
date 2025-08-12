@@ -27,7 +27,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-adguardhome"
 # MosDNS
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-mosdns luci-i18n-mosdns-zh-cn"
 # smartDNS
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-smartdns-zh-cn_25.208.26935~438b511_all.ipk luci-app-smartdns_1.2025.46-r1_all.ipk"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-smartdns-zh-cn_25.208.26935~438b511_all.ipk"
 # 代理相关
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-passwall-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-openclash"
